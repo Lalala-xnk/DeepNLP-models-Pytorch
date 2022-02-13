@@ -5,6 +5,8 @@ build/
 dataset/
 model/
 papers/
+notes/
+slides/
 *.cpp
 *.so
 *.bin
